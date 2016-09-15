@@ -9,7 +9,7 @@ SLING    is powerful  technology invented    in  JDollar  by  wilmix jemin  j fo
 SLING   is  focused   on modules  which  are
 
 
-a)  ERP  => DSTAR
+a)  ERP  => BSTAR
 
 b)  CRM => CSTAR
 
