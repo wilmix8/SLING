@@ -1,6 +1,6 @@
  SLING
 ========
-SLING    is powerful  technology invented    in  JDollar  by  wilmix jemin  j for  cloud  computing at  year  2016.
+SLING    is powerful  Programming Language invented    in  JDollar  by  wilmix jemin  j for  Remotewebappplication at  year  2016.
 
 
 
