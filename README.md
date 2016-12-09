@@ -1,6 +1,6 @@
  SLING
 ========
-SLING    is powerful  Programming Language invented    in  JDollar  by  wilmix jemin  j for  Remotewebappplication at  year  2016.
+SLING    is powerful  Programming Language invented    in  WEB  by  wilmix jemin  j for  Remotewebappplication at  year  2016.
 
 
 
