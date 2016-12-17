@@ -9,12 +9,12 @@ SLING    is powerful  Programming Language invented    in  WEB  by  wilmix jemin
 SLING   is  focused   on modules  which  are
 
 
-a)  ERP  => BSTAR
+a)  ERP  => BSTAR Programming
 
-b)  CRM => CSTAR
+b)  CRM => CSTAR Programming
 
-c) ECOMMERCE => ESTAR
+c) ECOMMERCE => ESTAR Programming
 
-D)  Advanced Business=> SDOLLAR
+D)  Advanced Business=> SDOLLAR Programming
 
 
