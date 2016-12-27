@@ -18,3 +18,4 @@ c) ECOMMERCE => ESTAR Programming
 D)  Advanced Business=> SDOLLAR Programming
 
 
+ Note:  SLING  is   only  used  in WALLET.
