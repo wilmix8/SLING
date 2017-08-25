@@ -26,3 +26,10 @@ Note:
 =====
 
 RCSHARP Advanced Business: It is focused with JDollar(JWEB) Advanced Business.
+
+Note:
+======
+
+For  SLINGPART2  with   JdollarPart2   is  already   given  at  the  given  below url...
+
+url: https://github.com/wilmix8/SEE2
