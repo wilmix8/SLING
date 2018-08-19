@@ -1,6 +1,6 @@
  SLING
 ========
-SLING    is powerful  Programming Language invented    in JDOLLAR(JWEB-JSLASH)   by  wilmix jemin  j for  
+SLING    is powerful  Programming Language invented    in DOTWEB3.0(JWEB-JSLASH)   by  wilmix jemin  j for  
 
 Remotewebappplication at  year  2016.
 
