@@ -25,11 +25,11 @@ D)  Advanced Business=> SDOLLAR Programming
 Note:
 =====
 
-RCSHARP Advanced Business: It is focused with JDollar(JWEB) Advanced Business.
+RCSHARP Advanced Business: It is focused with  DOTWEB3.0 Advanced Business.
 
 Note:
 ======
 
-For  SLINGPART2  with   JdollarPart2   is  already   given  at  the  given  below url...
+For  SLINGPART2  with    DOTWEB3.0Part2   is  already   given  at  the  given  below url...
 
 url: https://github.com/wilmix8/SEE2
